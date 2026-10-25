@@ -159,7 +159,3 @@ A repacked PAC is only as good as the images and addresses you put in it. Flashi
 
 - [iscle/unpac](https://github.com/iscle/unpac) for the original unpacker this grew out of
 - The official Unisoc `unpac.pl` for the reference layout and CRC algorithm
-
-## License
-
-Add a license before publishing (for example MIT). Note that `iscle/unpac` does not declare one, so check its status if you reuse its code directly.
