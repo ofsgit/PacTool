@@ -1,4 +1,4 @@
-# pactool
+# PacTool
 
 **Unpack, inspect, verify and re-pack Spreadtrum / Unisoc `.pac` firmware on Linux.**
 
@@ -157,5 +157,5 @@ A repacked PAC is only as good as the images and addresses you put in it. Flashi
 
 ## Credits
 
-- [iscle/unpac](https://github.com/iscle/unpac) for the original unpacker this grew out of
+- [@iscle](https://github.com/iscle) ([iscle/unpac](https://github.com/iscle/unpac)) for the original unpacker this grew out of
 - The official Unisoc `unpac.pl` for the reference layout and CRC algorithm
